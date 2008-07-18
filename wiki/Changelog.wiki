@@ -16,3 +16,4 @@ Liste des modifications/corrections apportées à la version 0.95
   * correction d'un bug graphique dans les archives : janvier s'affiche normalement
   * correction de la longueur du texte en mode "Modification de tâche" ou "Suivi de tâche"
   * correction d'un bug qui empechait d'afficher les guillemets doubles en mode édition
+  * correction du code afin de faire fonctionner l'installation sur les serveurs PHP ne comportant pas l'option 'short_open_tag'
