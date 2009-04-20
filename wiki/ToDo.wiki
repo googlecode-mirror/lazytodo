@@ -1,0 +1,53 @@
+#labels Phase-Requirements,Phase-Implementation
+#Todo list LazyTodo.
+
+= !!! ne pas toucher a la structure de la base de donnée (ou le moins possible) !!! =
+
+- Un dump mysql automatique par mois
+(test présence fichier/comparaison de date today)
+si date fichier => 30 jours  => nouveau dump
+
+- Modifier systême de gestion des tags dans la FAQ
+passer en Ajax (faire comme dans lazynews + bouton "ajouter un tag" en Ajax)
+
+- Préparer widgets "demande soumission",
+iGoogle / Netvibes / ...
+
+- Modifier page login.php
+titre et textes explicites et informatifs.
+
+- Nouveaux thèmes.
+
+- .htaccess documents.
+protéger l'accès aux documents
+
+- Consulter la FAQ sans être loggé
+
+- Modifier style 'print'
+gestion des sauts de pages
+
+- Refaire calendrier Archives.
+mise en forme imparfaite ; réaligner les "cases"
+
+- Conserver un enregistrement de la personne qui créé ET de la personne qui archive.
+maj structure bdd à prévoir > attention compatibilité versions antérieures
+
+- Meilleur support iCal
+support des RFC
+
+- Archivage date + minutes.
+pour permettre une affichage du type : "réalisé en 32 minutes" et non plus "0 jour"
+
+- Demande d'intervention par mail (imap.dll).
+facultatif / intégration simple à configurer absolument nécessaire
+
+- Contrôle sur les formulaires.
+javascript à la saisie + contrôle côté serveur
+
+- Vérifier user unique.
+pas de doublon dans les pseudos des users
+
+- Contextes autres qu'informatique.
+ex: contextes pour un foyer (factures, achats, bricolage, menage, ...)
+
+- Uniformiser l'affichage des Tags dans FAQ (Q/R)
