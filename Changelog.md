@@ -1,0 +1,18 @@
+# Nouveautés de la version 0.95 #
+## Introduction ##
+
+Liste des modifications/corrections apportées à la version 0.95
+
+
+### Details ###
+
+  * affichage des commentaires au passage de la souris
+  * réalignement des blocs dans les archives
+  * ajout d'un focus sur la page d'identification
+  * repositionnement du nom d'utilisateur dans les discussion perso
+  * contextes triés par ordre alphabétique partout
+  * correction d'un bug Firefox 3 (z-index)
+  * correction d'un bug graphique dans les archives : janvier s'affiche normalement
+  * correction de la longueur du texte en mode "Modification de tâche" ou "Suivi de tâche"
+  * correction d'un bug qui empechait d'afficher les guillemets doubles en mode édition
+  * correction du code afin de faire fonctionner l'installation sur les serveurs PHP ne comportant pas l'option 'short\_open\_tag'
